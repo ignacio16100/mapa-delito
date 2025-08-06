@@ -100,6 +100,90 @@
           -38.585223
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 826727,
+        "titulo": "Un motociclista resultó herido tras un fuerte choque con un auto",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El joven llevaba casco y debió ser atendido por personal de emergencia, que le estabilizó la pierna izquierda antes de su traslado al hospital. Un accidente de tránsito ocurrió cerca…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/choque-moto-auto-2.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-04",
+        "url": "https://diarionecochea.com/2025/08/04/un-motociclista-resulto-herido-tras-un-fuerte-choque-con-un-auto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733479,
+          -38.560638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 313459,
+        "titulo": "Robó en una carnicería de Quequén, intentó huir por el fondo y terminó detenido",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La dueña del comercio vio al sospechoso por las cámaras y llamó al 911. La policía lo encontró escondido en el patio trasero y lo detuvo a pocas cuadras del…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/policiales-robo-carniceria-aprehendido.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-08-04",
+        "url": "https://diarionecochea.com/2025/08/04/robo-en-una-carniceria-de-quequen-intento-huir-por-el-fondo-y-termino-detenido/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.709339,
+          -38.561551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 301167,
+        "titulo": "Lo detuvieron con un televisor robado y una cuchilla: tenía dos pedidos de captura",
+        "categoria": "Hurto",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Durante el procedimiento, el personal policial comprobó que el sospechoso tenía antecedentes penales y portaba un arma blanca de grandes dimensiones en su poder. En horas de la noche, personal…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/televisor-capturas-robos-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#d35400",
+        "iconClass": "fa-unlock-alt",
+        "iconColor": "white",
+        "fecha": "2025-08-04",
+        "url": "https://diarionecochea.com/2025/08/04/lo-detuvieron-con-un-televisor-robado-y-una-cuchilla-tenia-dos-pedidos-de-captura/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.761491,
+          -38.553946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 593899,
+        "titulo": "Chocó un auto estacionado en pleno centro, se fugó y su vehículo fue secuestrado",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió en la esquina de 64 y 61; el conductor dejó abandonado un Renault Clio blanco y el auto impactado, un Chevrolet Aveo gris, también fue retirado por…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/choque-madrugada-3.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-03",
+        "url": "https://diarionecochea.com/2025/08/03/choco-un-auto-estacionado-en-pleno-centro-se-fugo-y-su-vehiculo-fue-secuestrado/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.743327,
+          -38.553073
+        ]
+      }
     }
   ]
 }
