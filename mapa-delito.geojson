@@ -1,1 +1,105 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":220784,"titulo":"Persecuci\u00f3n en la villa balnearia con dos menores detenidos","categoria":"Robo","descripcion":"<div style=\"max-height:200px; overflow-y:auto;\"><p>La polic\u00eda intercept\u00f3 a los j\u00f3venes en Avenida 2 tras una breve persecuci\u00f3n. La moto hab\u00eda sido robada horas antes y presentaba da\u00f1os en el encendido. Nota completa: https:\/\/diarionecochea.com\/2025\/07\/01\/persecucion-en-la-villa-balnearia-termino-con-dos-menores-detenidos-y-una-moto-recuperada\/<\/p><br><img src=\"https:\/\/diarionecochea.com\/wp-content\/uploads\/2025\/07\/moto-robo-1.webp\" style=\"max-width:100%;height:auto;\"><\/div>","marker-color":"#e74c3c","marker-symbol":"\ud83d\udea8","fecha":"2025-07-01 10:37","url":"https:\/\/diarionecochea.com\/delito\/persecucion-en-la-villa-balnearia-con-dos-menores-detenidos\/"},"geometry":{"type":"Point","coordinates":[-58.72958419999999790661604492925107479095458984375,-38.58138550000000321915649692527949810028076171875]}},{"type":"Feature","properties":{"id":220737,"titulo":"Sorprendido Robando Tablones en Quequ\u00e9n: Fue Aprehendido","categoria":"Robo","descripcion":"<div style=\"max-height:200px; overflow-y:auto;\"><p>Un hombre fue detenido tras ser sorprendido robando tablones de madera de un corral\u00f3n, gracias a las c\u00e1maras del Centro de Monitoreo Municipal.<\/p><br><img src=\"https:\/\/i.ibb.co\/v4yPqfq1\/ladron.jpg\" style=\"max-width:100%;height:auto;\"><\/div>","marker-color":"#e74c3c","marker-symbol":"\ud83d\udea8","fecha":"2025-06-30 18:54","url":"https:\/\/diarionecochea.com\/delito\/sorprendido-robando-tablones-en-quequen-fue-aprehendido\/"},"geometry":{"type":"Point","coordinates":[-58.70752569999999792571543366648256778717041015625,-38.5694079000000016321791918016970157623291015625]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 220784,
+        "titulo": "Persecución en la villa balnearia con dos menores detenidos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La policía interceptó a los jóvenes en Avenida 2 tras una breve persecución. La moto había sido robada horas antes y presentaba daños en el encendido. Nota completa: https://diarionecochea.com/2025/07/01/persecucion-en-la-villa-balnearia-termino-con-dos-menores-detenidos-y-una-moto-recuperada/</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/07/moto-robo-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "🚨",
+        "fecha": "2025-07-01 10:37",
+        "url": "https://diarionecochea.com/delito/persecucion-en-la-villa-balnearia-con-dos-menores-detenidos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7295842,
+          -38.5813855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 220737,
+        "titulo": "Sorprendido Robando Tablones en Quequén: Fue Aprehendido",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Un hombre fue detenido tras ser sorprendido robando tablones de madera de un corralón, gracias a las cámaras del Centro de Monitoreo Municipal.</p><br><img src=\"https://i.ibb.co/v4yPqfq1/ladron.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "🚨",
+        "fecha": "2025-06-30 18:54",
+        "url": "https://diarionecochea.com/delito/sorprendido-robando-tablones-en-quequen-fue-aprehendido/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7075257,
+          -38.5694079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 776703,
+        "titulo": "Dos delincuentes en moto abordaron a un menor y le robaron la bicicleta",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió hace instantes en calle 71 entre 100 y 102. El padre dio aviso a las autoridades, que ya trabajan en el caso. Un nuevo episodio de inseguridad…</p><br><img src=\"https://diarionecochea.com/wp-content/themes/jnews/assets/img/jeg-empty.png\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "🚨",
+        "fecha": "2025-08-05",
+        "url": "https://diarionecochea.com/2025/08/05/dos-delincuentes-en-moto-abordaron-a-un-menor-y-le-robaron-la-bicicleta/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.722967,
+          -38.576797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 558173,
+        "titulo": "Un vecino espantó a los gritos a un ladrón que intentaba entrar por un garaje en Quequén",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El intento de robo ocurrió en calle 569 al 3800. El propietario detectó al sospechoso merodeando la zona y logró ahuyentarlo antes de que concretara el delito. Luego llamó al…</p><br><img src=\"https://diarionecochea.com/wp-content/themes/jnews/assets/img/jeg-empty.png\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "🚨",
+        "fecha": "2025-08-05",
+        "url": "https://diarionecochea.com/2025/08/05/un-vecino-espanto-a-los-gritos-a-un-ladron-que-intentaba-entrar-por-un-garaje-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.708878,
+          -38.530462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 325708,
+        "titulo": "Una niña de 2 años convulsionó en la calle y organizaron un operativo urgente para llevarla al hospital",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho sucedió en avenida 2 y 91 y fue respondido rápidamente por Defensa Civil, el Comando de Patrullas y Tránsito, que coordinaron el recorrido con cortes de calles para…</p><br><img src=\"https://diarionecochea.com/wp-content/themes/jnews/assets/img/jeg-empty.png\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "marker-symbol": "❓",
+        "fecha": "2025-08-05",
+        "url": "https://diarionecochea.com/2025/08/05/una-nina-de-2-anos-convulsiono-en-la-calle-y-organizaron-un-operativo-urgente-para-llevarla-al-hospital/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    }
+  ]
+}
