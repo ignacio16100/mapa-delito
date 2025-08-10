@@ -184,6 +184,216 @@
           -38.553073
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 690264,
+        "titulo": "Una motociclista resultó herida tras chocar con una camioneta en 46 y 57",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La víctima, que circulaba por calle 46 hacia la avenida 59, sufrió politraumatismos tras impactar contra una Ford F-10. Esta tarde, alrededor de las 16:10, se registró un accidente de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/choque-accidente-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-09",
+        "url": "https://diarionecochea.com/2025/08/09/una-motociclista-resulto-herida-tras-chocar-con-una-camioneta-en-46-y-57/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.732234,
+          -38.558229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 722355,
+        "titulo": "Operativo policial en rutas de San Cayetano culminó con el secuestro de drogas",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>En un control realizado en la intersección de las rutas 75, 72 y 228, la policía detectó que un hombre llevaba material estupefaciente, el cual fue incautado y quedó a…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/operativo-rutas-san-cayetano.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-09",
+        "url": "https://diarionecochea.com/2025/08/09/operativo-policial-en-rutas-de-san-cayetano-culmino-con-el-secuestro-de-drogas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.753767,
+          -38.555437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 465820,
+        "titulo": "Un herido tras fuerte choque entre dos autos en Ruta 228",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió a la altura del kilómetro 15 cuando una Ford Ecosport fue impactada desde atrás por un Toyota Yaris mientras su conductora intentaba ingresar a un campo. En…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/choque-1-ruta-228.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-08",
+        "url": "https://diarionecochea.com/2025/08/08/un-herido-tras-fuerte-choque-entre-dos-autos-en-ruta-228/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.732234,
+          -38.558229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 516073,
+        "titulo": "Fuerte colisión entre motos dejó a una mujer hospitalizada",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La motociclista fue asistida por personal de emergencia y derivada al Dr. Emilio Ferreyra, mientras se iniciaban las actuaciones para esclarecer las causas del siniestro vial. Un fuerte choque entre…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/choque-entre-motos.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-08",
+        "url": "https://diarionecochea.com/2025/08/08/fuerte-colision-entre-motos-dejo-a-una-mujer-hospitalizada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.741064,
+          -38.562223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 828653,
+        "titulo": "Un camión volcó y complicó el tránsito en la intersección de las rutas 228 y 86",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió en horas de la madrugada y obligó a reducir el tránsito en la zona hasta que el vehículo pudo ser retirado. Durante la madrugada de hoy se…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/camion-volcado-86-228.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-08-08",
+        "url": "https://diarionecochea.com/2025/08/08/un-camion-volco-y-complico-el-transito-en-la-interseccion-de-las-rutas-228-y-86/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.732234,
+          -38.558229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 798173,
+        "titulo": "Recuperaron autos robados y numerosas autopartes en procedimientos simultáneos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los rodados y piezas estaban vinculados a hechos de robo y hurto agravado cometidos en Mar del Plata y presentaban patentes apócrifas al momento del hallazgo. Un operativo policial de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/megaoperativo-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-08-08",
+        "url": "https://diarionecochea.com/2025/08/08/recuperaron-autos-robados-y-numerosas-autopartes-en-procedimientos-simultaneos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.739566,
+          -38.533308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 249110,
+        "titulo": "Choque fatal en Ruta 88: Fijan audiencia para definir un posible arresto domiciliario del camionero",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El fiscal presentó el requerimiento formal y pidió que el caso también se investigue contra el dueño del vehículo, quien deberá declarar en Tribunales la próxima semana. El fiscal Rodolfo…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/06/choque-tragedia-ruta-88.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-07",
+        "url": "https://diarionecochea.com/2025/08/07/choque-fatal-en-ruta-88-fijan-audiencia-para-definir-un-posible-arresto-domiciliario-del-camionero/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.732234,
+          -38.558229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 718465,
+        "titulo": "Aprehendieron a un hombre tras un robo a una vivienda deshabitada",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El acusado fue señalado tras analizar registros fílmicos y se dispuso un operativo en su domicilio, donde encontraron una camioneta y objetos coincidentes con los denunciados. Personal del GTO de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/allanamiento-robo-aprehension-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-08-07",
+        "url": "https://diarionecochea.com/2025/08/07/aprehendieron-a-un-hombre-tras-un-robo-a-una-vivienda-deshabitada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.759797,
+          -38.586371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 830490,
+        "titulo": "Pidieron 18 años de prisión para el tiktoker que atropelló y mató a madre e hija en Rosario",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Las fiscales presentaron el pedido de juicio oral y sumaron una inhabilitación de 10 años para conducir, mientras que la querella apoyó la acusación por doble homicidio con dolo eventual.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/tiktoker-rosario.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-08-07",
+        "url": "https://diarionecochea.com/2025/08/07/pidieron-18-anos-de-prision-para-el-tiktoker-que-atropello-y-mato-a-madre-e-hija-en-rosario/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.732234,
+          -38.558229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 380129,
+        "titulo": "El auto que volcó en Avenida 2 tenía patentes falsas y registraba un pedido de secuestro",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Durante la inspección se detectaron chapas apócrifas y el rodado fue trasladado para su análisis. El número de chasis confirmó que estaba requerido por un juzgado de Quilmes desde octubre…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/policiales-encubrimiento-2-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-08-07",
+        "url": "https://diarionecochea.com/2025/08/07/el-auto-que-volco-en-avenida-2-tenia-patentes-falsas-y-registraba-un-pedido-de-secuestro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.732234,
+          -38.558229
+        ]
+      }
     }
   ]
 }
