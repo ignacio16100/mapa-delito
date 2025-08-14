@@ -394,6 +394,69 @@
           -38.558229
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 990652,
+        "titulo": "Rompió la vidriera de un restaurante de un cabezazo y fue aprehendido",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El individuo, de 32 años, fue aprehendido y quedó a disposición de la fiscalía local. Anoche, cerca de las 22:30, efectivos policiales se dirigieron a la calle 57 al 2700…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/viriera-rotura-policiales.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-13",
+        "url": "https://diarionecochea.com/2025/08/13/rompio-la-vidriera-de-un-restaurante-de-un-cabezazo-y-fue-aprehendido/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.73924,
+          -38.552851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 967119,
+        "titulo": "Un auto chocó una patrulla y un menor resultó herido en Avenida 75",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El menor fue revisado por personal médico y no necesitó ser trasladado. Durante la tarde de este martes, pasadas las 18:15, se produjo un accidente vehicular en la intersección de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/choque-patrulla-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-12",
+        "url": "https://diarionecochea.com/2025/08/12/un-auto-choco-una-patrulla-y-un-menor-resulto-herido-en-avenida-75/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.739047,
+          -38.56675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 636489,
+        "titulo": "Una camioneta de tránsito municipal embistió a una moto y causó heridas a una joven de 19 años",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La joven de 19 años fue trasladada al hospital con dolores en la espalda y rodilla, mientras que la moto fue secuestrada por carecer de licencia, seguro, casco y documentación.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2024/05/transito-necochea.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-08-12",
+        "url": "https://diarionecochea.com/2025/08/12/una-camioneta-de-transito-municipal-choco-con-una-moto-y-una-joven-termino-hospitalizada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.74189,
+          -38.57351
+        ]
+      }
     }
   ]
 }
