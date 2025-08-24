@@ -478,6 +478,69 @@
           -38.540449
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 726562,
+        "titulo": "La policía recuperó muebles y electrodomésticos robados en una vivienda",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>En dos allanamientos realizados en calle 41, se secuestraron camas, un televisor, caloventores y herramientas sustraídas en un robo denunciado en calle 94, donde un hombre y una mujer quedaron…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/policiales-allanamientos-casa.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-08-24",
+        "url": "https://diarionecochea.com/2025/08/24/la-policia-recupero-muebles-y-electrodomesticos-robados-en-una-vivienda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.747158,
+          -38.533353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 760896,
+        "titulo": "Violencia de género en Barrio Norte: La justicia destacó al vecino que denunció los hechos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Gracias al involucramiento de un testigo ocular que denunció lo ocurrido, personal del Comando de Patrullas aprehendió un hombre que ejercía violencia contra su pareja en una finca de calle…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/03/comisaria-mujer.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-08-23",
+        "url": "https://diarionecochea.com/2025/08/23/violencia-de-genero-en-barrio-norte-la-justicia-destaco-al-vecino-que-denuncio-los-hechos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.744074,
+          -38.547634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 489460,
+        "titulo": "Lo detuvieron por incumplir una restricción de acercamiento",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La víctima fue acompañada a la Comisaría de la Mujer y la Familia para radicar la denuncia, mientras el detenido quedó a disposición judicial por desobediencia. En la madrugada del…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-22-at-10.55.22-AM.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-08-22",
+        "url": "https://diarionecochea.com/2025/08/22/lo-detuvieron-por-incumplir-una-restriccion-de-acercamiento/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.765301,
+          -38.552557
+        ]
+      }
     }
   ]
 }
