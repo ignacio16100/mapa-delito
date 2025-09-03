@@ -541,6 +541,69 @@
           -38.552557
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 526647,
+        "titulo": "Un policía fuera de servicio detuvo a un ladrón que le arrebató el celular a un adulto mayor",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Un hombre que circulaba en bicicleta le robó el celular a una mujer de 71 años en calles 75 y 90. El efectivo lo retuvo hasta la llegada del patrullero.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/policiales-2-sep-6.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-02",
+        "url": "https://diarionecochea.com/2025/09/02/un-policia-fuera-de-servicio-detuvo-a-un-ladron-que-le-arrebato-el-celular-a-un-adulto-mayor/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.762457,
+          -38.548815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 864888,
+        "titulo": "Detienen a una mujer y recuperan una moto robada en un allanamiento",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El operativo se realizó en una vivienda de calle 96 al 2000 y estuvo vinculado a una investigación por hurto iniciada tras la denuncia de una bicicleta sustraída en agosto.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/policiales-2-sep-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-02",
+        "url": "https://diarionecochea.com/2025/09/02/detienen-a-una-mujer-y-recuperan-una-moto-robada-en-un-allanamiento/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.749046,
+          -38.533408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 903971,
+        "titulo": "Choque en 71 y 48: una camioneta impactó contra un auto y derribó un poste de luz",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El accidente se dio en la mañana de este lunes, en medio de la lluvia y el intenso tránsito. Otro choque tuvo lugar en Avenida 58 y calle 69. Durante…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/choque-alumbrado.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-09-01",
+        "url": "https://diarionecochea.com/2025/09/01/choque-en-71-y-48-una-camioneta-impacto-contra-un-auto-y-derribo-un-poste-de-luz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.744211,
+          -38.558295
+        ]
+      }
     }
   ]
 }
