@@ -604,6 +604,153 @@
           -38.558295
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 395621,
+        "titulo": "Detuvieron en Necochea a un joven por robar un auto a mano armada en Mar del Plata",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La víctima fue sorprendida en la puerta de su casa y los delincuentes escaparon con su Ford Fiesta, que fue rastreado por GPS hasta Necochea, donde la Policía detuvo a…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/mardel-auto-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-12",
+        "url": "https://diarionecochea.com/2025/09/12/detuvieron-en-necochea-a-un-joven-por-robar-un-auto-a-mano-armada-en-mar-del-plata/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.726655,
+          -38.567313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 245386,
+        "titulo": "Siguen las detenciones por el violento robo a un matrimonio de jubilados",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La policía realizó allanamientos positivos en distintos puntos de la ciudad y capturó a los principales sospechosos, entre ellos dos hermanos con antecedentes. La investigación por el brutal robo agravado…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/detenciones-robo-jubilados.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-12",
+        "url": "https://diarionecochea.com/2025/09/12/siguen-las-detenciones-por-el-violento-robo-a-un-matrimonio-de-jubilados/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733157,
+          -38.555972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 373544,
+        "titulo": "El COM permitió el seguimiento y detención de un delincuente que robó una bicicleta",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Las cámaras registraron el robo cuando la víctima ingresó a un kiosco. El aviso inmediato a la Policía y a Tránsito posibilitó el seguimiento del delincuente y su detención a…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/IMG-20250911-WA0043-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-11",
+        "url": "https://diarionecochea.com/2025/09/11/el-com-permitio-atrapar-a-un-ladron-de-bicicleta-en-pleno-centro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.724862,
+          -38.578748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 984843,
+        "titulo": "Cayó la banda que asaltó a un matrimonio de jubilados con dos detenidos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Tras el análisis de cámaras de seguridad, los investigadores localizaron un auto rojo usado en el hecho y lograron aprehender a dos sujetos, quienes quedaron a disposición de la justicia…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/asalto-jubilados-destacada.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-11",
+        "url": "https://diarionecochea.com/2025/09/11/cayo-la-banda-que-asalto-a-un-matrimonio-de-jubilados-y-hay-dos-detenidos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733157,
+          -38.555972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 185672,
+        "titulo": "Un basquetbolista platense de 21 años fue detenido en Necochea por grooming",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La DDI local organizó un operativo en la esquina de calles 46 y 61 donde concretó la aprehensión. El Juzgado de Garantías nro. 1, a cargo de SS Dr. Atención…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/basq.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-11",
+        "url": "https://diarionecochea.com/2025/09/11/un-basquetbolista-platense-de-21-anos-fue-detenido-en-necochea-por-grooming/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.734369,
+          -38.559915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 338114,
+        "titulo": "Una moto y un auto chocaron en la esquina de 69 y 40: una joven resultó herida",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El impacto se produjo en horas de la tarde y dejó herida a una joven motociclista de 26 años. En horas de la tarde de este miércoles se registró un…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/choque2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-11",
+        "url": "https://diarionecochea.com/2025/09/11/una-moto-y-un-auto-chocaron-en-la-esquina-de-69-y-40-una-joven-resulto-herida/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.735142,
+          -38.565175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 868951,
+        "titulo": "Una joven de 19 años fue hospitalizada tras chocar con una camioneta",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La motociclista fue asistida en el lugar y luego trasladada al hospital, donde confirmaron que sus lesiones no ponían en riesgo su vida. En la intersección de calles 56 y…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/09/accidente-moto-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-09-10",
+        "url": "https://diarionecochea.com/2025/09/10/una-joven-de-19-anos-fue-hospitalizada-tras-chocar-con-una-camioneta/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.742019,
+          -38.558533
+        ]
+      }
     }
   ]
 }
