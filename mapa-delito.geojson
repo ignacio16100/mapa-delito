@@ -751,6 +751,69 @@
           -38.558533
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 232609,
+        "titulo": "Allanamiento en Quequén terminó con la aprehensión de una mujer y el secuestro de un arma",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Una mujer de 58 años fue aprehendida tras un operativo en su domicilio donde encontraron un revólver calibre 38 sin documentación y una olla relacionada a una denuncia reciente. Personal…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/arma-fuego-1.jpeg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-10-02",
+        "url": "https://diarionecochea.com/2025/10/02/allanamiento-en-quequen-termino-con-la-aprehension-de-una-mujer-y-el-secuestro-de-un-arma/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.722095,
+          -38.550308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 635976,
+        "titulo": "Investigan a un menor tras un robo en Quequén luego de ser identificado por cámaras de seguridad",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El operativo se concretó al día siguiente del ilícito y permitió dar con prendas coincidentes, además de establecer la identidad del joven señalado como responsable del boquete en el local.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2024/05/patrulla-policia.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-10-01",
+        "url": "https://diarionecochea.com/2025/10/01/investigan-a-un-menor-tras-un-robo-en-quequen-luego-de-ser-identificado-por-camaras-de-seguridad/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.712413,
+          -38.554779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 712480,
+        "titulo": "Allanamiento en calle 97 terminó con el secuestro de cuchillos vinculados a un ataque",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Durante el procedimiento se revisaron dos vehículos y se incautaron armas blancas, una de ellas utilizada en la agresión que dio origen a la investigación por lesiones, amenazas y daños.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/episodio-violencia-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2025-10-01",
+        "url": "https://diarionecochea.com/2025/10/01/allanamiento-en-calle-97-termino-con-el-secuestro-de-cuchillos-vinculados-a-un-ataque/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.745677,
+          -38.578017
+        ]
+      }
     }
   ]
 }
