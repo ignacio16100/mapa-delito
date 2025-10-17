@@ -814,6 +814,111 @@
           -38.578017
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 556532,
+        "titulo": "Un hombre fue brutalmente agredido por su hijo y terminó hospitalizado",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hombre, de unos 60 años, fue encontrado inconsciente y con una herida profunda en el rostro. Segun se pudo saber personal policial intervino en una vivienda ubicada en calle…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/17-10-25-3.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2025-10-17",
+        "url": "https://diarionecochea.com/2025/10/17/un-hombre-fue-brutalmente-agredido-por-su-hijo-y-termino-hospitalizado/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.738067,
+          -38.565958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 543728,
+        "titulo": "Dos policías resultaron heridos tras intervenir en una vivienda",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los agentes fueron atacados por varios integrantes del grupo cuando intentaban calmar la situación. Efectivos policiales debieron intervenir en una vivienda ubicada en calle 90 al 3200 de la ciudad…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/17-10-25-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2025-10-17",
+        "url": "https://diarionecochea.com/2025/10/17/dos-policias-resultaron-heridos-tras-intervenir-en-una-vivienda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.757758,
+          -38.54498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 673560,
+        "titulo": "Encontraron a Josefina Monsalvo y está fuera de peligro",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hallazgo se produjo en la zona de la playa luego de varios días de trabajo conjunto entre la DDI, familiares y vecinos que aportaron información clave para dar con…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/encontraron-sana-salva.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-10-17",
+        "url": "https://diarionecochea.com/2025/10/17/encontraron-a-josefina-monsalvo-y-esta-fuera-de-peligro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.726081,
+          -38.582167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 426147,
+        "titulo": "Buscan intensamente a una mujer que desapareció en Quequén",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Ayelén Cutura Pérez fue vista por última vez este miércoles cuando salió de una vivienda. No tiene celular ni redes sociales y su búsqueda fue declarada urgente. La DDI Necochea…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/busqueda-policiales-2.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-10-16",
+        "url": "https://diarionecochea.com/2025/10/16/buscan-intensamente-a-una-mujer-que-desaparecio-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.709511,
+          -38.550911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 156965,
+        "titulo": "Un motociclista resultó herido tras un accidente en Avenida 75 y calle 46",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El siniestro ocurrió en calles 75 y 46, donde una moto colisionó con un Suzuki Fun. El conductor del auto no sufrió heridas y el joven fue asistido por el…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/choque.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-10-16",
+        "url": "https://diarionecochea.com/2025/10/16/un-motociclista-resulto-herido-tras-un-accidente-en-avenida-75-y-calle-46/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.74101,
+          -38.565251
+        ]
+      }
     }
   ]
 }
