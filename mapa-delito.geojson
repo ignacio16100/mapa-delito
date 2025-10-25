@@ -919,6 +919,27 @@
           -38.565251
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 863742,
+        "titulo": "Robaron una moto frente a una vivienda en calle 55 y 90",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La propietaria contó que el vehículo estaba con traba y candado cuando un hombre vestido de oscuro se la llevó y escapó por calle 94 en dirección al río. Una…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/robo-moto-policiales.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-10-25",
+        "url": "https://diarionecochea.com/2025/10/25/robaron-una-moto-frente-a-una-vivienda-en-calle-55-y-90/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.752748,
+          -38.540963
+        ]
+      }
     }
   ]
 }
