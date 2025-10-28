@@ -940,6 +940,69 @@
           -38.540963
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 808173,
+        "titulo": "Robó una bicicleta en la entrada de un local del centro y escapó pedaleando",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El ladrón aprovechó un descuido y huyó montado en la bicicleta robada sin que nadie pudiera detenerlo. Un nuevo hecho de inseguridad ocurrió este sábado alrededor de las 20:00 en…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/robo-bicicleta-centro.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-10-27",
+        "url": "https://diarionecochea.com/2025/10/27/robo-una-bicicleta-en-la-entrada-de-un-local-del-centro-y-escapo-pedaleando/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.742384,
+          -38.555336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 293726,
+        "titulo": "Rompió una vidriera en el centro y fue detenido pocos minutos después",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hombre quedó a disposición de la justicia por el delito de daño. Un hombre fue aprehendido por personal policial luego de provocar daños en un local comercial ubicado en…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/policiales-vidriera.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-10-27",
+        "url": "https://diarionecochea.com/2025/10/27/rompio-una-vidriera-en-el-centro-y-fue-detenido-pocos-minutos-despues/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.743118,
+          -38.549854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 299120,
+        "titulo": "Detuvieron a un joven de 27 años en Necochea por agredir a su ex pareja",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El procedimiento se realizó en la tarde de hoy y el imputado quedó alojado en la sede de la DDI a disposición del magistrado interviniente, tras acreditarse los hechos denunciados.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2024/10/ddi-necochea.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2025-10-26",
+        "url": "https://diarionecochea.com/2025/10/26/detuvieron-a-un-joven-de-27-anos-en-necochea-por-agredir-a-su-ex-pareja/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.726205,
+          -38.57929
+        ]
+      }
     }
   ]
 }
