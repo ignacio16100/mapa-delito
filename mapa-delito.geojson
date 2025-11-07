@@ -1003,6 +1003,90 @@
           -38.57929
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 395468,
+        "titulo": "Tensión en Quequén: denunció que cuatro personas con un cuchillo intentaron robarle",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió de madrugada en la esquina de 519 y 532, donde un hombre pidió ayuda tras ser rodeado por varias personas, entre ellas una mujer. En un confuso…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2024/05/patrulla-policia.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-07",
+        "url": "https://diarionecochea.com/2025/11/07/tension-en-quequen-denuncio-que-cuatro-personas-con-un-cuchillo-intentaron-robarle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.703462,
+          -38.566083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 346993,
+        "titulo": "Dos vehículos se incendiaron casi al mismo tiempo en Quequén",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los bomberos actuaron con rapidez para controlar las llamas en un Fiat Uno y una camioneta Chevrolet S10, evitando que el fuego se propagara a otras zonas cercanas. En la…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/incendio-vehiculos.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-11-06",
+        "url": "https://diarionecochea.com/2025/11/06/dos-vehiculos-se-incendiaron-casi-al-mismo-tiempo-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.706233,
+          -38.568315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 443334,
+        "titulo": "Un desperfecto eléctrico provocó un principio de incendio en un garaje",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió en calle 38 entre 91 y 89 y generó una rápida intervención de Bomberos y Defensa Civil, que lograron sofocar el fuego sin que se registraran heridos.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/principio-incendio-garaje.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-11-06",
+        "url": "https://diarionecochea.com/2025/11/06/principio-de-incendio-en-un-garaje-por-desperfecto-electrico/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.744648,
+          -38.574352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 239250,
+        "titulo": "Un remisero fue asaltado en Quequén al finalizar un viaje: «Le puso un cuchillo en el cuello»",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El trabajador fue amenazado con un cuchillo luego de levantar un pasajero en la playa. El agresor le quitó los celulares, documentos y dinero antes de escapar, aunque finalmente no…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2022/08/policia-patrullas.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-05",
+        "url": "https://diarionecochea.com/2025/11/05/un-remisero-fue-asaltado-en-quequen-al-finalizar-un-viaje-le-puso-un-cuchillo-en-el-cuello/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.701603,
+          -38.561559
+        ]
+      }
     }
   ]
 }
