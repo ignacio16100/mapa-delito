@@ -1087,6 +1087,90 @@
           -38.561559
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 239731,
+        "titulo": "Detuvieron a un hombre por una causa de tenencia ilegal de arma de guerra en Quequén",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El operativo se realizó en las calles 584 y 561. Personal policial llevó a cabo la detención de un hombre de 35 años en la intersección de calles 584 y…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/arma-guerra-quequen.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-13",
+        "url": "https://diarionecochea.com/2025/11/13/detuvieron-a-un-hombre-por-una-causa-de-tenencia-ilegal-de-arma-de-guerra-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.712708,
+          -38.533509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 434578,
+        "titulo": "Aprehendieron a un ladrón cuando intentaba llevarse una bicicleta del patio de una casa",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El 911 recibió un aviso por un intruso en avenida 57 bis al 4600 y, tras un rastrillaje por los fondos de las casas, se constató la falta de una…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/policiales-13-11-25-3.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-13",
+        "url": "https://diarionecochea.com/2025/11/13/aprehendieron-a-un-ladron-cuando-intentaba-llevarse-una-bicicleta-del-patio-de-una-casa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.758767,
+          -38.539576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 793316,
+        "titulo": "Choque entre moto y camioneta con una mujer herida en 59 y 42",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La conductora de una moto terminó trasladada al hospital con dolores en la muñeca y cadera. En horas de la mañana del jueves, alrededor de las 9:00, personal policial acudió…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/choque-59-42.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-13",
+        "url": "https://diarionecochea.com/2025/11/13/choque-entre-auto-y-camioneta-con-una-mujer-herida-en-59-y-42/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.731451,
+          -38.560511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 310596,
+        "titulo": "Vecinos reclaman medidas de seguridad en el barrio Mataderos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La Comisión de Infraestructura, Obras y Servicios Públicos del Concejo Deliberante trabajó en problemáticas presentadas por los vecinos. Se consideró instalar cámaras en la Plaza de las Carretas. Entre los…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/patrulla-municipio-destacada.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-13",
+        "url": "https://diarionecochea.com/2025/11/13/vecinos-reclaman-medidas-de-seguridad-en-el-barrio-mataderos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.740356,
+          -38.543138
+        ]
+      }
     }
   ]
 }
