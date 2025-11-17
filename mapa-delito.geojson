@@ -1171,6 +1171,195 @@
           -38.543138
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132533,
+        "titulo": "Choque entre un camión y una bicicleta dejó una mujer herida en Quequén",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La colisión ocurrió en la tarde del sábado en calles 575 y 556, donde una ciclista sufrió lesiones y fue trasladada al hospital. En la tarde del sábado, personal policial…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/accidente-bici-quequen.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-15",
+        "url": "https://diarionecochea.com/2025/11/15/choque-entre-un-camion-y-una-bicicleta-dejo-una-mujer-herida-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 172813,
+        "titulo": "Cae una red de inmigración ilegal vinculada a Al Qaeda que operaba en la zona",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Prefectura detuvo a cuatro personas e incautó varias armas y municiones. Los detenidos están acusados de montar una red ilegal de inmigración desde medio oriente y de vínculos con terroristas.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/alqaeda-organizacion.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-15",
+        "url": "https://diarionecochea.com/2025/11/15/cae-una-red-de-inmigracion-ilegal-vinculada-a-al-qaeda-que-operaba-en-la-zona/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 378897,
+        "titulo": "La justicia aún no identificó al autor del atraco al gimnasio de calle 38",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El delincuente ató a la dueña del gimnasio, y le robó una considerable suma de dinero, además de un teléfono celular. Fuentes judiciales confirmaron que por el momento no lograron…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/01/patrulla-policiales.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-15",
+        "url": "https://diarionecochea.com/2025/11/15/la-justicia-aun-no-identifico-al-autor-del-atraco-al-gimnasio-de-calle-38/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 580735,
+        "titulo": "Amenazó con un cuchillo a policías durante un operativo de Tránsito",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los agentes avanzaron para contener la situación y lograron desarmarlo con rapidez. Personal del Comando de Patrulla acudió a un requerimiento del área de Tránsito Municipal, que había solicitado apoyo…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/amenazas-transito.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-15",
+        "url": "https://diarionecochea.com/2025/11/15/amenazo-con-un-cuchillo-a-policias-que-asistian-a-transito-en-un-operativo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 971834,
+        "titulo": "Impresionante explosión en una planta agroquímica de Ezeiza",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El estallido sorprendió a quienes viven en la zona y obligó a un amplio despliegue de bomberos, que trabajan desde la tarde para contener un incendio persistente mientras se esperan…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/explosion-ezeiza.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-14",
+        "url": "https://diarionecochea.com/2025/11/14/impresionante-explosion-en-una-planta-agroquimica-de-ezeiza/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 264878,
+        "titulo": "Secuestraron un celular usado para ofrecer bicicletas robadas durante un allanamiento",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La investigación avanzó cuando la denuncia por el robo de dos bicicletas, lo que facilitó secuestrar el celular utilizado para publicar los rodados en redes sociales. En el marco de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2024/03/patrulla-policia-robos.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-14",
+        "url": "https://diarionecochea.com/2025/11/14/secuestraron-un-celular-usado-para-ofrecer-bicicletas-robadas-durante-un-allanamiento/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 723481,
+        "titulo": "Detuvieron a un sujeto que agredió, amenazó y le robó el celular a su ex pareja",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El procedimiento avanzó luego de que la víctima denunciara una agresión y el robo de su celular. Este jueves personal policial de ña Seccional 1era de Necochea llevó adelante un…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/14-11-2025-policiales-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-14",
+        "url": "https://diarionecochea.com/2025/11/14/detuvieron-a-un-sujeto-que-agredio-amenazo-y-le-robo-el-celular-a-su-ex-pareja/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 193459,
+        "titulo": "Jóvenes en moto causaron destrozos en la Escollera Norte",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho quedó grabado por un testigo, quien envió las imágenes a esta redacción. Individuos que se desplazaban en moto provocaron destrozos en la Escollera Norte de Quequén durante la…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/vandalismo-quequen-escollera.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-14",
+        "url": "https://diarionecochea.com/2025/11/14/jovenes-en-moto-causaron-destrozos-en-la-escollera-norte/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166928,
+        "titulo": "Despistó un camión en la Ruta 228: no se registraron heridos",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Sucedió jueves a la tarde en el kilómetro 19; el conductor no sufrió lesiones y la circulación quedó normalizada tras la intervención del personal vial. En horas de la tarde…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/vuelco-camion-ruta-228.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-13",
+        "url": "https://diarionecochea.com/2025/11/13/volco-un-camion-en-la-ruta-228-no-se-registraron-heridos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
     }
   ]
 }
