@@ -1360,6 +1360,27 @@
           -38.585223
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 593274,
+        "titulo": "En contramano y por la vereda: detuvieron a una pareja tras una peligrosa persecución",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Tras avanzar de manera riesgosa por varias calles, el vehículo apareció vacío en un baldío y la Policía inició un rastrillaje que permitió ubicar entre los pastizales a la pareja…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/persecucion-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-11-20",
+        "url": "https://diarionecochea.com/2025/11/20/en-contramano-y-por-la-vereda-detuvieron-a-una-pareja-tras-una-peligrosa-persecucion/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733555,
+          -38.585223
+        ]
+      }
     }
   ]
 }
