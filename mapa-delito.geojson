@@ -1381,6 +1381,90 @@
           -38.585223
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 672172,
+        "titulo": "Brutal golpiza en un boliche: un hombre perdió dos dientes y tres jóvenes fueron aprehendidos",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La pelea se conoció tras un llamado al 911 que alertó sobre el ataque. El personal policial llegó al lugar y asistió a la víctima. En la madrugada de este…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/golpiza-aprehendidos.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-11-23",
+        "url": "https://diarionecochea.com/2025/11/23/brutal-pelea-en-un-boliche-un-hombre-perdio-dientes-y-tres-jovenes-fueron-aprehendidos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.731979,
+          -38.582834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 229170,
+        "titulo": "Habló el conductor del 147 que se metió al mar: «Los de Tránsito se fueron, se reían y me filmaban»",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Aseguró que pensaron que el auto no tenía arreglo y que se reían mientras lo filmaban, en contraste con la versión oficial que describe una persecución por varios metros. El…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/fiat147-playa-capo.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-11-22",
+        "url": "https://diarionecochea.com/2025/11/22/hablo-el-conductor-del-147-que-se-metio-al-mar-los-de-transito-se-fueron-se-reian-y-me-filmaban/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.701174,
+          -38.531922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 627469,
+        "titulo": "Entró al mar con un Fiat 147, intentó escapar tras ser rescatado y lo interceptaron a pocos metros",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El personal de Tránsito llegó hasta la costa para sacarlo del agua y enseguida el conductor aceleró sin acatar órdenes, lo que inició un seguimiento por varias cuadras hasta lograr…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/147-mar-2.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-11-22",
+        "url": "https://diarionecochea.com/2025/11/22/entro-al-mar-con-un-fiat-147-intento-escapar-tras-ser-rescatado-y-lo-interceptaron-a-pocos-metros/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.701174,
+          -38.531922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 703205,
+        "titulo": "Un empresario necochense denunció la desaparición de $8 millones y más de 3.000 dólares",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho sucedió en octubre, cuando el socio habló de un robo en una caja fuerte, pero el dueño del dinero verificó los datos y encontró inconsistencias, lo que derivó…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/robo-caja-fuerte-dinero.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-21",
+        "url": "https://diarionecochea.com/2025/11/21/un-empresario-necochense-denuncio-la-desaparicion-de-8-millones-y-mas-de-3-000-dolares/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.721603,
+          -38.566336
+        ]
+      }
     }
   ]
 }
