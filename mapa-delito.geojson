@@ -1465,6 +1465,111 @@
           -38.566336
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 420176,
+        "titulo": "Choque en pleno centro: una mujer fue hospitalizada",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió esta mañana en la intersección de avenidas 59 y 60. En la mañana del lunes, alrededor de las 8:30, se registró un accidente de tránsito en la…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/choque-centro-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-12-01",
+        "url": "https://diarionecochea.com/2025/12/01/choque-en-pleno-centro-una-mujer-fue-hospitalizada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.740302,
+          -38.553673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 967653,
+        "titulo": "A un año del femicidio de Magalí Vera, su familia impulsa un acto en su memoria",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Familiares y allegados preparan un acto para recordar a Magalí Vera y reiterar reclamos de justicia, a un año de su muerte. Organizadores y allegados preparan una convocatoria abierta para…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/magali-vera-memoria.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-12-01",
+        "url": "https://diarionecochea.com/2025/12/01/a-un-ano-del-femicidio-de-magali-vera-su-familia-impulsa-un-acto-en-su-memoria/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.739264,
+          -38.554553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 297449,
+        "titulo": "Momentos de alarma al encontrar a un joven que no reaccionaba en un vehículo estacionado",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Tras golpear el auto para ver si reaccionaba, el menor logró despertar y fue acompañado por sus padres hasta recibir la visita de los médicos, que verificaron sus signos vitales…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/ambulancia-rio-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-11-30",
+        "url": "https://diarionecochea.com/2025/11/30/momentos-de-alarma-al-encontrar-a-un-joven-que-no-reaccionaba-en-un-vehiculo-estacionado/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.737814,
+          -38.522877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 738412,
+        "titulo": "Buscan a un individuo que rayó una camioneta en pleno centro",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La propietaria de la camioneta compartió las imágenes para facilitar la identificación. En el centro de la ciudad se registró recientemente un acto de vandalismo que generó preocupación entre comerciantes…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/rayo-camioneta-centro.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-30",
+        "url": "https://diarionecochea.com/2025/11/30/buscan-a-un-individuo-que-rayo-una-camioneta-en-pleno-centro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.743327,
+          -38.553073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 830218,
+        "titulo": "Una camioneta chocó una columna y se dio a la fuga",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El vehículo se retiró a toda velocidad después del impacto y fue visto oculto en una vivienda cercana, mientras la policía inició tareas para ubicar a quien iba al mando…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/11/camioneta-fuga-columna.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-11-30",
+        "url": "https://diarionecochea.com/2025/11/30/una-camioneta-choco-una-columna-y-se-dio-a-la-fuga/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.74101,
+          -38.565251
+        ]
+      }
     }
   ]
 }
