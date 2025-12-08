@@ -1570,6 +1570,111 @@
           -38.565251
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 166156,
+        "titulo": "La policía interceptó a un sospechoso que circulaba en una moto robada",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los efectivos se acercaron tras ver una discusión en la vía pública y observar la maniobra de fuga. Personal que realizaba patrullajes en la zona de calles 74 y 51…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/moto-secuestro-7-12.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-12-07",
+        "url": "https://diarionecochea.com/2025/12/07/la-policia-intercepto-a-un-sospechoso-que-circulaba-en-una-moto-robada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.743145,
+          -38.54542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 235383,
+        "titulo": "Dos motociclistas fueron hospitalizados tras chocar con una camioneta estacionada",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El choque ocurrió de madrugada. Profesionales del SAME atendieron a los motociclistas y coordinaron el traslado. Testigos señalaron que la moto con dos ocupantes avanzaba por la zona cuando impactó…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/choque-accidente-quequen-camioneta-estacionada.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-12-07",
+        "url": "https://diarionecochea.com/2025/12/07/dos-motociclistas-fueron-hospitalizados-tras-chocar-con-una-camioneta-estacionada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.722975,
+          -38.551112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 829427,
+        "titulo": "Se incendió un taller de chapa y pintura durante la madrugada",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Personal de Bomberos, Policía y Tránsito intervino ante un foco ígneo en un taller, controló la situación y redujo riesgos para personas cercanas. Personal de distintos servicios públicos actuó durante…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/chapa-pintura-incendio.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-12-06",
+        "url": "https://diarionecochea.com/2025/12/06/se-incendio-un-taller-de-chapa-y-pintura-durante-la-madrugada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.753767,
+          -38.555437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 700589,
+        "titulo": "Piden cadena de oración por el motociclista que chocó con un utilitario en 63 y 72",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Familiares solicitaron acompañamiento mientras el joven permanece en terapia intensiva luego de la colisión entre una moto y un utilitario, hecho que derivó en una investigación por lesiones culposas en…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/choque-accidente-cadena-oracion.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-12-05",
+        "url": "https://diarionecochea.com/2025/12/05/piden-cadena-de-oracion-por-el-motociclista-que-choco-con-un-utilitario-en-63-y-72/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.748102,
+          -38.550898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 517899,
+        "titulo": "Grave choque entre una moto y un utilitario",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Joven motociclista quedó con heridas serias tras colisión del 5 de diciembre en la esquina de calles 63 y 72. Sucedió este viernes 5 de diciembre en la intersección de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/594516560_1465688895562483_4438915676270623079_n.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2025-12-05",
+        "url": "https://diarionecochea.com/2025/12/05/grave-choque-entre-una-moto-y-un-utilitario/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.748102,
+          -38.550898
+        ]
+      }
     }
   ]
 }
