@@ -1675,6 +1675,69 @@
           -38.550898
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 892184,
+        "titulo": "Fue a retirar un auto secuestrado en un camión sin papeles y también se lo secuestraron",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió este viernes en el predio de Tránsito de la Avenida 59, donde el personal debió pedir apoyo policial tras constatar que el vehículo de gran porte tampoco…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/predio-transito-necochea.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-12-13",
+        "url": "https://diarionecochea.com/2025/12/13/fue-a-retirar-un-auto-secuestrado-en-un-camion-sin-papeles-y-tambien-se-lo-secuestraron/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.750967,
+          -38.545484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 334532,
+        "titulo": "Aprehenden a un joven tras sustraer banquetas en comercio de zona de Ruta 86",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El sereno de la zona de containers alertó al 911 al ver el ilícito y permitió que el Comando de Patrulla interceptara al acusado de 27 años en la esquina…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/banquetas-robo-01.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-12-12",
+        "url": "https://diarionecochea.com/2025/12/12/aprehenden-a-un-joven-tras-sustraer-banquetas-en-comercio-de-zona-de-ruta-86/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.748124,
+          -38.534113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 315621,
+        "titulo": "Atraparon a dos ladrones que caminaban por los techos: uno cayó a un patio y se golpeó la cabeza",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Habían hecho un agujero para entrar a una vivienda de la calle 24 y llevaban un morral con herramientas, pero terminaron detenidos cuando un vecino de la otra cuadra avisó…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/robo-herido-3.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-12-12",
+        "url": "https://diarionecochea.com/2025/12/12/atraparon-a-dos-ladrones-que-caminaban-por-los-techos-uno-de-ellos-se-cayo-al-patio-y-se-golpeo-la-cabeza/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.725657,
+          -38.569569
+        ]
+      }
     }
   ]
 }
