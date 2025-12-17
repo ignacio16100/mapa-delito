@@ -1738,6 +1738,69 @@
           -38.569569
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 381052,
+        "titulo": "Un hombre y su hijo de seis años cayeron de la bicicleta tras ser rozados por una camioneta",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho sucedió este martes en calle 48 al 4000 cuando el vehículo retrocedió e hizo perder el equilibrio a los ciclistas. Un nuevo siniestro vial se registró este martes…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/calle-bicicleta-accidente-camioneta.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-12-16",
+        "url": "https://diarionecochea.com/2025/12/16/un-hombre-y-su-hijo-de-seis-anos-cayeron-de-la-bicicleta-tras-ser-rozados-por-una-camioneta/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.744798,
+          -38.566761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 556327,
+        "titulo": "Secuestraron dos motos con pedido activo y detuvieron a un menor por encubrimiento",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El operativo comenzó por un aviso en 75 y 42, donde uno de los sospechosos dejó una KTM Duke 200 y escapó a pie, mientras el otro rodado huyó por…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/secuestro-moto-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-12-16",
+        "url": "https://diarionecochea.com/2025/12/16/secuestraron-dos-motos-con-pedido-activo-y-detuvieron-a-un-menor-por-encubrimiento/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.739047,
+          -38.56675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 340156,
+        "titulo": "Joven intentó escapar a pie de un control policial tras abandonar su moto adulterada",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El operativo comenzó por denuncias al 911 en calles 2 y 63 donde los efectivos interceptaron al conductor, quien huyó corriendo hasta ser atrapado en la zona de 81 y…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/policiales-detencion-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-12-15",
+        "url": "https://diarionecochea.com/2025/12/15/joven-intento-escapar-a-pie-de-un-control-policial-tras-abandonar-su-moto-adulterada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.715009,
+          -38.579693
+        ]
+      }
     }
   ]
 }
