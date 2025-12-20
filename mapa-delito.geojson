@@ -1801,6 +1801,111 @@
           -38.579693
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 371912,
+        "titulo": "Dos accidentes en simultáneo y a unas cuadras de diferencia dejaron heridos este sábado",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Un motociclista resultó herido tras colisionar con un auto en Avenida 75, mientras que un segundo incidente entre dos vehículos con familias a bordo ocurrió minutos después en las inmediaciones…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/accidente-20-12-25-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-12-20",
+        "url": "https://diarionecochea.com/2025/12/20/dos-accidentes-en-simultaneo-y-a-unas-cuadras-de-diferencia-dejaron-heridos-este-sabado/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.746139,
+          -38.559799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 239172,
+        "titulo": "Atraco en vivienda de calle 67: La justicia investiga si los ladrones provenían de otra ciudad",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Hace pocos días, una vecina con domicilio en calle 67, sufrió el robo de miles de dólares y alrededor de un millón de pesos, además de ser maltratada por los…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/patrulla-policia.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-12-19",
+        "url": "https://diarionecochea.com/2025/12/19/atraco-en-vivienda-de-calle-67-la-justicia-investiga-si-los-ladrones-provenian-de-otra-ciudad/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.736258,
+          -38.56296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 250293,
+        "titulo": "Robaron equipos de sonido en la capilla de calles 72 y 73",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho se descubrió a primera hora, cuando dieron aviso al 911 y llegó el Comando de Patrullas para entrevistarse con los responsables y relevar qué faltaba en el lugar.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/parroquia-robo-madrugada.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-12-19",
+        "url": "https://diarionecochea.com/2025/12/19/robaron-equipos-de-sonido-en-la-capilla-de-calles-72-y-73/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.752834,
+          -38.55464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 171239,
+        "titulo": "Millonario robo en la vivienda de un comerciante en Avenida 59",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los delincuentes aprovecharon que la víctima atendía su negocio para ingresar por el fondo de la propiedad y sustraer 11 millones de pesos, Los delincuentes aprovecharon que la víctima atendía…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2024/04/patrulla-policiales.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-12-19",
+        "url": "https://diarionecochea.com/2025/12/19/millonario-robo-en-la-vivienda-de-un-comerciante-de-avenida-59/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.755752,
+          -38.541825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 320291,
+        "titulo": "Dolor absoluto: falleció Martina Fernández y su familia donó los órganos que darán vida a 6 personas",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La familia autorizó la desconexión asistida tras el diagnóstico de muerte cerebral y completó los protocolos este jueves para que la donación de sus órganos les brinde una oportunidad de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/martina-fernandez-destacada.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2025-12-18",
+        "url": "https://diarionecochea.com/2025/12/18/dolor-absoluto-fallecio-martina-fernandez-y-su-familia-dono-los-organos-que-daran-vida-a-6-personas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7304,
+          -38.55671
+        ]
+      }
     }
   ]
 }
