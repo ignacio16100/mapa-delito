@@ -1906,6 +1906,90 @@
           -38.55671
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 693225,
+        "titulo": "Un adolescente terminó aprehendido luego de intentar huir de la policía en una moto robada",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió en la intersección de avenida 59 y 82, donde el personal de seguridad identificó la Honda Wave y constató que la justicia marplatense buscaba el motovehículo por…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/comisaria-primera-policiales.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-01-03",
+        "url": "https://diarionecochea.com/2026/01/03/un-adolescente-termino-aprehendido-luego-de-intentar-huir-de-la-policia-en-una-moto-robada/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.750967,
+          -38.545484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 328815,
+        "titulo": "Descontrol total en los festejos de Año Nuevo: violencia, incendios, heridos y choques",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La ausencia de personal municipal y la demora del 911 permitieron que se produjeran batallas campales en la Villa Balnearia, donde grupos violentos se apoderaron de las calles durante toda…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/descontrol-3.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2026-01-01",
+        "url": "https://diarionecochea.com/2026/01/01/descontrol-total-en-los-festejos-de-ano-nuevo-violencia-incendios-heridos-y-choques/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.712413,
+          -38.554779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 964714,
+        "titulo": "Un utilitario terminó sobre la vereda después de chocar con una moto",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El accidente sucedió al mediodía en la esquina de 51 y 54, donde el vehículo mayor perdió el control y frenó muy cerca de una vivienda familiar. Un violento incidente…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/foto-choque-myp.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2025-12-30",
+        "url": "https://diarionecochea.com/2025/12/30/un-utilitario-termino-sobre-la-vereda-despues-de-chocar-con-una-moto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.733302,
+          -38.552962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 320348,
+        "titulo": "Entró a una casa de la calle 52 y atacó al dueño con un cuchillo carnicero",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los efectivos policiales llegaron por un alerta al 911 y encontraron a los hombres forcejeando en el suelo, donde el agresor amenazó de muerte a la víctima antes de herirla…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/12/policiales-detenido-agresion.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2025-12-30",
+        "url": "https://diarionecochea.com/2025/12/30/entro-a-una-casa-de-la-calle-52-y-ataco-al-dueno-con-un-cuchillo-carnicero/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.746793,
+          -38.565312
+        ]
+      }
     }
   ]
 }
