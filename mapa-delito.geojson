@@ -1990,6 +1990,48 @@
           -38.565312
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 617556,
+        "titulo": "Secuestraron cocaína y una moto robada durante un fuerte operativo policial en Quequén",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La investigación iniciada en septiembre permitió detener ayer al principal sospechoso mientras manejaba un vehículo robado, logrando que la justicia ordene el registro de dos casas donde hallaron elementos de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/drogas-ilicitas-10-1-26-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2026-01-10",
+        "url": "https://diarionecochea.com/2026/01/10/secuestraron-cocaina-y-una-moto-robada-durante-un-fuerte-operativo-policial-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.709908,
+          -38.571284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 432669,
+        "titulo": "Detuvieron a un hombre que circulaba por la ciudad con un auto robado y armado",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El conductor de treinta y ocho años transitaba en un vehículo con patentes falsas cuando los efectivos lo interceptaron en el cruce de las avenidas 58 y Jesuita Cardiel. En…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/ddi-necochea-3.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-01-09",
+        "url": "https://diarionecochea.com/2026/01/09/detuvieron-a-un-hombre-que-circulaba-por-la-ciudad-con-un-auto-robado-y-armado/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.73843,
+          -38.543095
+        ]
+      }
     }
   ]
 }
