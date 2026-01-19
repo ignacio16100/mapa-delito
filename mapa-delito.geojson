@@ -2032,6 +2032,27 @@
           -38.543095
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 623820,
+        "titulo": "Violenta pelea de jóvenes a la salida del boliche en la Villa Balnearia",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Ocurrió este sábado a las 7 de la mañana en la calle 81, donde un grupo se enfrentó con golpes y patadas, mientras los vecinos alertaron al 911 reiteradas veces.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/pelea-boliches-villa-balnearia.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2026-01-17",
+        "url": "https://diarionecochea.com/2026/01/17/violenta-pelea-de-jovenes-a-la-salida-del-boliche-en-la-villa-balnearia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7282,
+          -38.581408
+        ]
+      }
     }
   ]
 }
