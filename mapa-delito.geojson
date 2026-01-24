@@ -2053,6 +2053,111 @@
           -38.581408
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 468254,
+        "titulo": "Difunden la foto del adolescente de 12 años desaparecido para facilitar la búsqueda",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El menor falta de su hogar desde ayer a la tarde y la fiscalía autorizó la publicación de su imagen para que los vecinos puedan reconocerlo rápidamente en la vía…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/menor-busqueda-23-1-26.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2026-01-23",
+        "url": "https://diarionecochea.com/2026/01/23/difunden-la-foto-del-adolescente-de-12-anos-desaparecido-para-facilitar-la-busqueda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.758767,
+          -38.539576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 358059,
+        "titulo": "La policía halló un auto abandonado en la calle que tenía pedido de secuestro",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hallazgo ocurrió este jueves a la altura del tres mil cien y al consultar el sistema informático saltó una alerta judicial de Neuquén por una causa de apremios ilegales.…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/secuestro-policiales-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2026-01-23",
+        "url": "https://diarionecochea.com/2026/01/23/la-policia-hallo-un-auto-abandonado-en-la-calle-que-tenia-pedido-de-secuestro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.758767,
+          -38.539576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 167615,
+        "titulo": "Buscan intensamente a un nene de 12 años que se retiró de su hogar y no regresó",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Salió ayer por la tarde de la vivienda de calle 87 al 3400 con un conjunto deportivo, pero no regresó y su cuidadora radicó la denuncia para activar los protocolos…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/policia-patrulla.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2026-01-23",
+        "url": "https://diarionecochea.com/2026/01/23/buscan-intensamente-a-un-nene-de-12-anos-que-se-retiro-de-su-hogar-y-no-regreso/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.760473,
+          -38.559236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 936196,
+        "titulo": "Detuvieron a tres «trapitos» alcoholizados que molestaban a la gente",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Luego de recibir varias denuncias al 911, los agentes del Comando de Patrullas los trasladaron a la Comisaría Primera para dejarlos a disposición de la justicia por alterar el orden…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/trapitos-detenidos-22-1-26.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2026-01-22",
+        "url": "https://diarionecochea.com/2026/01/22/detuvieron-a-tres-trapitos-alcoholizados-que-molestaban-a-la-gente-en-el-centro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.758767,
+          -38.539576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 945254,
+        "titulo": "Imputaron a dos menores y recuperaron herramientas robadas en una obra en construcción",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hecho ocurrió el 14 de enero en la calle 89 al 200, donde forzaron el acceso para llevarse máquinas eléctricas y rompieron las cámaras de seguridad antes de la…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/menores-herramientas-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-01-22",
+        "url": "https://diarionecochea.com/2026/01/22/dos-menores-imputados-y-herramientas-recuperadas-tras-allanamientos-por-robo-en-una-obra-en-construccion/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.73539,
+          -38.579932
+        ]
+      }
     }
   ]
 }
