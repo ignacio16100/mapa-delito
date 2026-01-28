@@ -2158,6 +2158,69 @@
           -38.579932
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 733843,
+        "titulo": "Secuestraron dos motos, dinero, chequeras y herramientas caseras en dos allanamientos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Efectivos de la Comisaría Tercera realizaron procedimientos en la calle 80 Bis y la avenida 43, donde recuperaron motos de alta cilindrada con pedido de secuestro y detuvieron a un…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/policiales-28-1-26-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-01-28",
+        "url": "https://diarionecochea.com/2026/01/28/secuestraron-motos-herramientas-para-forzar-cerraduras-y-dinero-en-dos-allanamientos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.743285,
+          -38.539369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 305834,
+        "titulo": "Recuperaron una moto robada tras investigar el robo de una campera en un negocio",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los agentes del Gabinete Técnico Operativo identificaron al autor del hurto mediante las cámaras de seguridad y consiguieron la orden judicial para registrar una vivienda ubicada sobre la calle 39…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/policia-moto-secuestro-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-01-27",
+        "url": "https://diarionecochea.com/2026/01/27/recuperaron-una-moto-robada-tras-investigar-el-robo-de-una-campera-en-un-negocio/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.73363,
+          -38.543763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 259507,
+        "titulo": "Ingresó a una casa por los techos, robó una moto y escapó hasta que la policía lo divisó circulando",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El sospechoso entró a una casa de la calle 55 escalando paredones, sustrajo una Yamaha XTZ junto a una mochila. La policía lo atrapó circulando por la avenida 59. Un…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/moto-poliicales-27-1-26-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-01-27",
+        "url": "https://diarionecochea.com/2026/01/27/ingreso-a-una-casa-por-los-techos-robo-una-moto-y-lo-atraparon-circulando/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.741212,
+          -38.54981
+        ]
+      }
     }
   ]
 }
