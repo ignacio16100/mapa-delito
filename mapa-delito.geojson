@@ -2221,6 +2221,69 @@
           -38.54981
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 959178,
+        "titulo": "Caso Fiorito: Aún no se logró acreditar una relación previa entre la detenida y la víctima",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Carlos Larrarte, fiscal a cargo de la investigación, brindó detalles a Diario Necochea sobre el avance de la causa, luego de la detención e imputación de la mujer que poseía…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/alejandra-fiorito-allanam.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2026-02-02",
+        "url": "https://diarionecochea.com/2026/02/02/caso-fiorito-aun-no-se-logro-acreditar-una-relacion-previa-entre-la-detenida-y-la-victima/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.752598,
+          -38.565301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 628442,
+        "titulo": "Atraparon al acusado de romper la vidriera y robar en una heladería",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Personal de la Comisaría Primera identificó al sospechoso mediante las cámaras de seguridad y lo interceptó en la vía pública, donde intentó escapar sin éxito antes de ser trasladado a…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2025/10/patrulla-policial-dn.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-01-31",
+        "url": "https://diarionecochea.com/2026/01/31/atraparon-al-acusado-de-romper-la-vidriera-y-robar-en-una-heladeria/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.740302,
+          -38.553673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 240699,
+        "titulo": "Dos autos chocaron contra árboles en distintos puntos de la ciudad en pocas horas",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los siniestros viales ocurrieron en las últimas horas y fueron protagonizados por automóviles que impactaron contra el arbolado público, resultando uno de los conductores con test de alcoholemia positivo. Una…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/01/choque-31-1-26-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2026-01-31",
+        "url": "https://diarionecochea.com/2026/01/31/dos-autos-chocaron-contra-arboles-en-distintos-puntos-de-la-ciudad-en-pocas-horas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.741242,
+          -38.548367
+        ]
+      }
     }
   ]
 }
