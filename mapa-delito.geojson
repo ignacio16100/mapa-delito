@@ -2284,6 +2284,90 @@
           -38.548367
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119680,
+        "titulo": "Sospechosa camioneta ofrecía herramientas en la vía pública: tres aprehendidos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El procedimiento comenzó tras un llamado al 911 y derivó en la intervención policial en calles 66 y 61, donde se identificó el vehículo y a sus ocupantes durante un…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/policiales-robo-herramientas-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-05",
+        "url": "https://diarionecochea.com/2026/02/05/sospechosa-camioneta-ofrecia-herramientas-en-la-via-publica-tres-aprehendidos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.744307,
+          -38.552339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 658518,
+        "titulo": "Detuvieron a un hombre tras robar herramientas de un auto estacionado en la vía pública",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El procedimiento se realizó cerca de la medianoche tras un aviso al 911, cuando personal del Comando de Patrullas lo identificó en la vía pública y confirmó la medida judicial…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/harramientas-auto-robo-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-05",
+        "url": "https://diarionecochea.com/2026/02/05/detuvieron-a-un-hombre-tras-robar-herramientas-de-un-auto-estacionado-en-la-via-publica/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.749626,
+          -38.564605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 562345,
+        "titulo": "Una carnicería de avenida 74 fue blanco de delincuentes a un mes de su inauguración",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El encargado llegó por la mañana, detectó daños en el acceso trasero y dio aviso inmediato a la Policía, que inició las actuaciones para esclarecer el hecho ocurrido fuera del…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/basko-carniceria-scaled.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-05",
+        "url": "https://diarionecochea.com/2026/02/05/una-carniceria-de-avenida-74-fue-blanco-de-delincuentes-a-un-mes-de-su-inauguracion/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.73836,
+          -38.54156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 808610,
+        "titulo": "Incautaron motosierras y soldadoras sin documentación durante un allanamiento",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El procedimiento ocurrió en la intersección de 66 y 61 donde demoraron a tres hombres que intentaban comercializar los artículos desde un vehículo y quedaron a disposición de la fiscalía…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/robo-herramientas-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-04",
+        "url": "https://diarionecochea.com/2026/02/04/incautaron-motosierras-y-soldadoras-sin-documentacion-durante-un-allanamiento/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.744307,
+          -38.552339
+        ]
+      }
     }
   ]
 }
