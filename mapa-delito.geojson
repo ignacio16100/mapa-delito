@@ -2368,6 +2368,132 @@
           -38.552339
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 676366,
+        "titulo": "Cayó un delincuente con antecedentes por violencia familiar tras un operativo policial",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El personal del Gabinete Técnico Operativo identificó al sujeto en un domicilio de las calles 564 y 521, donde procedieron a su captura debido a los ataques físicos graves que…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/detenido-antecedentes-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2026-02-10",
+        "url": "https://diarionecochea.com/2026/02/10/cayo-un-delincuente-con-antecedentes-por-violencia-familiar-tras-un-operativo-policial/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.718094,
+          -38.553329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132548,
+        "titulo": "Buscan a un cocinero que desapareció en Necochea hace casi dos semanas",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hombre trabajaba como cocinero en la ciudad, lugar al que llegó desde la provincia de Corrientes para cumplir con sus tareas laborales antes de su desaparición. La policía de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/busqueda-paradero-necochea.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2026-02-10",
+        "url": "https://diarionecochea.com/2026/02/10/buscan-a-un-cocinero-que-desaparecio-en-necochea-hace-casi-dos-semanas/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.742935,
+          -38.560732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 753541,
+        "titulo": "La policía recuperó la moto robada a un joven que sufrió un asalto",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El hallazgo ocurrió cerca de la medianoche en calles 83 y 114 tras el asalto que sufrió el joven esa misma tarde a manos de dos sujetos armados que le…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/recuperaron-moto-robada-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-09",
+        "url": "https://diarionecochea.com/2026/02/09/la-policia-recupero-la-moto-robada-a-un-joven-que-sufrio-un-asalto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.776523,
+          -38.543982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 882368,
+        "titulo": "Frustraron un intento de usurpación en una casa de la calle 78",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los oficiales arribaron al lugar para realizar las actuaciones por tentativa de usurpación y pusieron a ambos jóvenes a disposición de la fiscalía tras descubrir que el domicilio estaba bajo…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/policiales-9-2-26-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2026-02-09",
+        "url": "https://diarionecochea.com/2026/02/09/frustraron-un-intento-de-usurpacion-en-una-casa-de-la-calle-78/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.755752,
+          -38.552381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 921833,
+        "titulo": "Cae un hombre con pedidos de captura por robos y daños en un operativo de calle",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Al verificar sus datos personales en el sistema, los agentes constataron los pedidos de detención vigentes por diversos hechos ilícitos y labraron las actuaciones legales necesarias para iniciar los trámites…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/policiales-9-2-2.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-09",
+        "url": "https://diarionecochea.com/2026/02/09/cae-un-hombre-con-pedidos-de-captura-por-robos-y-danos-en-un-operativo-de-calle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.716141,
+          -38.556299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 186672,
+        "titulo": "Un joven terminó aprehendido por circular con una réplica de pistola en la cintura",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Personal policial lo interceptó tras un llamado al 911 que alertaba sobre su presencia sospechosa cerca de una estación de servicio en las avenidas 59 y 98 durante la noche…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/replica-pistola.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2026-02-09",
+        "url": "https://diarionecochea.com/2026/02/09/un-joven-termino-aprehendido-por-circular-con-una-replica-de-pistola-en-la-cintura/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.758767,
+          -38.539576
+        ]
+      }
     }
   ]
 }
