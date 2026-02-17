@@ -2494,6 +2494,90 @@
           -38.539576
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 762997,
+        "titulo": "Desesperada búsqueda en Necochea de un hombre que cobró una gran suma de dinero y no regresó",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Juan Carlos Franco salió el martes al mediodía de la calle 53 acompañado por una mujer desconocida tras cobrar un juicio laboral y la policía perdió su rastro porque padece…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/busqueda-desesperada-policiales.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2026-02-16",
+        "url": "https://diarionecochea.com/2026/02/16/desesperada-busqueda-en-necochea-de-un-hombre-que-cobro-una-gran-suma-de-dinero-y-no-regreso/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.717842,
+          -38.566299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 158454,
+        "titulo": "Elevan a juicio la causa por la muerte de Mónica Nielsen: la Fiscalía solicitó el inicio de la etapa de debate oral",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La Fiscalía del Fuero Penal Juvenil requirió el debate oral para el joven conductor de la camioneta que embistió a la vecina en la esquina de 26 y 57 durante…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/choque-tragedia-monica-nielsen.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-15",
+        "url": "https://diarionecochea.com/2026/02/15/elevan-a-juicio-la-causa-por-la-muerte-de-monica-nielsen-la-fiscalia-solicito-el-inicio-de-la-etapa-de-debate-oral/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.722633,
+          -38.565614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 630003,
+        "titulo": "Un llamado al 911 por disparos en una obra permitió desbaratar un punto de venta de drogas en Quequén",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Tras hallar una escopeta en el lugar de las detonaciones a fines de enero, la policía investigó y allanó una vivienda donde secuestró un revólver calibre 38 junto a cocaína…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/drogas8.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-13",
+        "url": "https://diarionecochea.com/2026/02/13/un-llamado-al-911-por-disparos-en-una-obra-permitio-desbaratar-un-punto-de-venta-de-drogas-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.698728,
+          -38.560737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 879848,
+        "titulo": "Una motociclista resultó herida tras chocar con una camioneta",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El impacto ocurrió este mediodía en la esquina de 61 y 54, donde una Fiat Toro colisionó contra el rodado menor, motivando la intervención urgente de los servicios de emergencia…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/choque-dc-moto.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-13",
+        "url": "https://diarionecochea.com/2026/02/13/una-motociclista-resulto-herida-tras-chocar-con-una-camioneta/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.738228,
+          -38.557022
+        ]
+      }
     }
   ]
 }
