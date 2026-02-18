@@ -2578,6 +2578,90 @@
           -38.557022
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 764743,
+        "titulo": "Choque entre un auto y una moto dejó a una mujer herida en Quequén",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>La conductora del rodado menor recibió asistencia inmediata por parte del personal de Salud tras el impacto. Un accidente de tránsito se registró esta tarde en la localidad de Quequén…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/choque-auto-moto-quequen.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2026-02-18",
+        "url": "https://diarionecochea.com/2026/02/18/choque-entre-un-auto-y-una-moto-dejo-a-una-mujer-herida-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.705369,
+          -38.564571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 555574,
+        "titulo": "Robo a mano armada en una verdulería: ladrones se llevaron la recaudación del día",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los delincuentes llegaron en una moto para llevarse el dinero y escaparon rápidamente a contramano hacia la zona del centro . Un nuevo hecho de inseguridad golpeó a un comercio…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/policiales-patrulla-destacada.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-18",
+        "url": "https://diarionecochea.com/2026/02/18/robo-a-mano-armada-en-una-verduleria-ladrones-se-llevaron-la-recaudacion-del-dia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.747073,
+          -38.557592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 667125,
+        "titulo": "Evacuaron de urgencia a todos los pasajeros de un colectivo que se incendió en Quequén",
+        "categoria": "Accidente",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El colectivo sufrió una pérdida de aceite considerable en la esquina de 542 y 521 y acabó sobre la vereda de la plaza, desatando un foco ígneo que generó alarma…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/incendio-colectivo-quequen.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#8e44ad",
+        "iconClass": "fa-car-crash",
+        "iconColor": "white",
+        "fecha": "2026-02-17",
+        "url": "https://diarionecochea.com/2026/02/17/evacuaron-de-urgencia-a-todos-los-pasajeros-de-un-colectivo-que-se-incendio-en-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.707354,
+          -38.561576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 462990,
+        "titulo": "Cayeron los autores de un violento robo a un kiosco tras varios allanamientos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los investigadores identificaron a los sospechosos mediante cámaras de seguridad y redes sociales, lo que permitió que la policía registre dos viviendas donde secuestraron droga, dinero en efectivo y el…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/policiales-17-2-26-10.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-17",
+        "url": "https://diarionecochea.com/2026/02/17/cayeron-los-autores-de-un-violento-robo-a-un-kiosco-tras-varios-allanamientos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.749985,
+          -38.538735
+        ]
+      }
     }
   ]
 }
