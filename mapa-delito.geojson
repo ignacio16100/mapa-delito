@@ -2662,6 +2662,48 @@
           -38.538735
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175034,
+        "titulo": "Capturaron a un delincuente que tenía una larga lista de robos y hurtos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los agentes del Comando de Patrullas lo trasladaron a la comisaría tras verificar sus antecedentes por robo y encubrimiento. En el marco del Operativo Sol a Sol 2025/2026, personal del…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/delincuente-hurtos-robos-policiales.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-02-25",
+        "url": "https://diarionecochea.com/2026/02/25/capturaron-a-un-delincuente-que-tenia-una-larga-lista-de-robos-y-hurtos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.742276,
+          -38.552205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 883679,
+        "titulo": "Alcoholizado y armado, intentó agredir a la policía pero fue reducido y apresado",
+        "categoria": "Violencia",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Los efectivos llegaron por un llamado al 911 y el sujeto salió de la vivienda para agredirlos físicamente, por lo que lo redujeron de inmediato antes de descubrir que estaba…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/02/detenido-policiales-alcoholizado-carabina.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#c0392b",
+        "iconClass": "fa-user-secret",
+        "iconColor": "white",
+        "fecha": "2026-02-25",
+        "url": "https://diarionecochea.com/2026/02/25/alcoholizado-y-armado-intento-agredir-a-la-policia-pero-fue-reducido-y-apresado/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.755709,
+          -38.556962
+        ]
+      }
     }
   ]
 }
