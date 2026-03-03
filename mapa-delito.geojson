@@ -2704,6 +2704,69 @@
           -38.556962
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 805033,
+        "titulo": "Un hombre de 40 años terminó detenido dos veces en la misma semana por robar y pelearse en la calle",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El sospechoso atacó a comerciantes en la zona de las calles 554 y 519, para luego enfrentar un allanamiento en su domicilio donde la policía encontró pruebas vinculadas al hurto…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/03/policiales-2-3-26-1.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-03-03",
+        "url": "https://diarionecochea.com/2026/03/03/un-hombre-de-40-anos-termino-detenido-dos-veces-en-la-misma-semana-por-robar-y-pelearse-en-la-calle/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.714241,
+          -38.557829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 526607,
+        "titulo": "Investigan la muerte de un hombre dentro de un hotel en la Villa Balnearia",
+        "categoria": "Otro",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El incidente tuvo lugar este sábado sobre la calle 4, lugar donde trabajaron los peritos de la Policía Científica y el personal médico del SAME en un operativo conjunto. Las…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/03/policiales-cientifica-1.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#2980b9",
+        "iconClass": "fa-question",
+        "iconColor": "white",
+        "fecha": "2026-03-01",
+        "url": "https://diarionecochea.com/2026/03/01/investigan-la-muerte-de-un-hombre-dentro-de-un-hotel-en-la-villa-balnearia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7282,
+          -38.581408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100924,
+        "titulo": "Intentó robar 12 remeras de un local del centro y terminó detenido",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Tras un llamado al 911, la policía interceptó al sospechoso que ahora quedó a disposición de la fiscalía bajo una causa por tentativa de hurto. Un hombre fue aprehendido tras…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/03/policiales-1-3-26.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-03-01",
+        "url": "https://diarionecochea.com/2026/03/01/intento-robar-12-remeras-de-un-local-del-centro-y-termino-detenido/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.742276,
+          -38.552205
+        ]
+      }
     }
   ]
 }
