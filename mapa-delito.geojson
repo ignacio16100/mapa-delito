@@ -2767,6 +2767,69 @@
           -38.552205
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 814143,
+        "titulo": "Investigan un millonario robo de dólares y cheques mediante un boquete en una empresa de Quequén",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Desconocidos vulneraron las oficinas desde las alturas para sustraer dinero de diferentes denominaciones y papeles importantes, hecho que generó un intenso operativo pericial matutino y el rastreo de los implicados…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/03/robo-nequen.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-03-08",
+        "url": "https://diarionecochea.com/2026/03/08/investigan-un-millonario-robo-de-dolares-y-cheques-mediante-un-boquete-en-una-empresa-de-quequen/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.711943,
+          -38.56988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 160433,
+        "titulo": "Madrugada violenta: Una batalla campal entre jóvenes terminó con heridos en el hospital",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>Todo comenzó de madrugada en barrio Los Naranjos, con gritos que alertaron a la policía, quienes encontraron a los menores enfrentándose antes de derivar a las víctimas para recibir atención…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/03/calle-86-y-71.webp\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-03-08",
+        "url": "https://diarionecochea.com/2026/03/08/madrugada-violenta-una-batalla-campal-entre-jovenes-termino-con-heridos-en-el-hospital/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.758681,
+          -38.548655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 849762,
+        "titulo": "Un auto ardió por un desperfecto eléctrico y debieron intervenir los Bomberos",
+        "categoria": "Robo",
+        "descripcion": "<div style=\"max-height:200px; overflow-y:auto;\"><p>El siniestro ocurrió cerca de las 22:00 horas, lo que motivó un rápido despliegue de los Bomberos y la Policía para extinguir las llamas. Una dotación de los Bomberos de…</p><br><img src=\"https://diarionecochea.com/wp-content/uploads/2026/03/incendio-auto-noche.jpg\" style=\"max-width:100%;height:auto;\"></div>",
+        "marker-color": "#e74c3c",
+        "iconClass": "fa-bullhorn",
+        "iconColor": "white",
+        "fecha": "2026-03-06",
+        "url": "https://diarionecochea.com/2026/03/06/un-auto-ardio-por-un-desperfecto-electrico-y-debieron-intervenir-los-bomberos/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.765963,
+          -38.569889
+        ]
+      }
     }
   ]
 }
